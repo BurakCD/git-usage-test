@@ -9,6 +9,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
+    private String isim, Soyisim = "Burak";
+
     private Button normalMod, karanlikMod;
 
     @Override
