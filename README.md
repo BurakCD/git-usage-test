@@ -57,6 +57,16 @@ Ayrı bir başlık şekli = >
 
 >Başlık
 
-'''
+Kod bloğu oluşturma = [`]
+
+```python
 print("hello world")
-'''
+```
+
+```javascript
+console.log("hello world")
+function helloWorld() {
+console.log("hello world")
+}
+```
+
