@@ -22,3 +22,7 @@
 * tek yıldız italik *
 ** çift yıldız bold **
 *** üç yıldız bold italic ***
+
+*lorem ipsum*
+**Lorem ipsum**
+***Lorem ipsum***
