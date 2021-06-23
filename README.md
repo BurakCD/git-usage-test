@@ -56,3 +56,7 @@ Birden fazla çizgi koymak araya çizgi atar = -
 Ayrı bir başlık şekli = >
 
 >Başlık
+
+'''
+print("hello world")
+'''
