@@ -35,9 +35,9 @@
 
 / [] açıklama için
 
-/ () linkin kendisi için
+/ () linkin kendisi için (linke gitmek için en başa ! koyulmalı)
 
 [Google link](www.google.com.tr)
 
-
+![Google link](www.google.com.tr)
 
