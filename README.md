@@ -41,3 +41,8 @@
 
 ![Google link](https://www.google.com.tr)
 
+/ []() görsel gösterimi için fotoğrafın kendi linkini koymalıyız
+
+![Kedi](https://lh3.googleusercontent.com/proxy/zSSZkwPGOyaA2rdc3h_zavpIHn1jhLB_HwlpKWYFqSL08n0mfctEoiCXxkaBts6Gt44YiYo-h4Z9MRMK3ASDtBiiohA4urLuh9XNYir06vYiI5aySt0sgm4gtL5fZhQ0tntqRArznVxto4trhSE)
+
+
