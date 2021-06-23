@@ -17,7 +17,7 @@
 
 / * liste item işareti
 
-* list item 1
+* list item 1 [Link bilgisi](https://www.Tema.org.tr)
 * list item 2
 
 
@@ -45,4 +45,10 @@
  
 ![Kedi](https://lh3.googleusercontent.com/proxy/zSSZkwPGOyaA2rdc3h_zavpIHn1jhLB_HwlpKWYFqSL08n0mfctEoiCXxkaBts6Gt44YiYo-h4Z9MRMK3ASDtBiiohA4urLuh9XNYir06vYiI5aySt0sgm4gtL5fZhQ0tntqRArznVxto4trhSE)
 
+/ - birden fazla çizgi koymak araya çizgi atar 
 
+------------------------------------------------------------------------------
+
+/> ayrı bir başlık şekli
+
+>Başlık
